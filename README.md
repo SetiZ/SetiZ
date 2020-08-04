@@ -2,6 +2,8 @@
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#2](https://github.com//markhuot/storybook-twig/issues/2) in [markhuot/storybook-twig](https://github.com//markhuot/storybook-twig)
+<!--END_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com//markhuot/storybook-twig/issues/2) in [markhuot/storybook-twig](https://github.com//markhuot/storybook-twig)
 
 <!--
 **SetiZ/SetiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
