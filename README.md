@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//markhuot/storybook-twig/issues/2) in [markhuot/storybook-twig](https://github.com//markhuot/storybook-twig)
+1. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
 <!--END_SECTION:activity-->
 
 <!--
