@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
+1. 💪 Opened PR [#72](https://github.com//sfeir-open-source/sfeir-school-pwa/pull/72) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
 <!--END_SECTION:activity-->
 
 <!--
