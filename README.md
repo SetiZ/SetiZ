@@ -6,11 +6,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com//sfeir-open-source/sfeir-school-pwa/pull/72) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
-2. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
-3. 🎉 Merged PR [#70](https://github.com//sfeir-open-source/sfeir-school-pwa/pull/70) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
+1. ❗️ Opened issue [#249](https://github.com//benjaminsampica/benjaminsampica/issues/249) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+2. 💪 Opened PR [#72](https://github.com//sfeir-open-source/sfeir-school-pwa/pull/72) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
+3. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
 4. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
-5. ❗️ Opened issue [#2](https://github.com//markhuot/storybook-twig/issues/2) in [markhuot/storybook-twig](https://github.com//markhuot/storybook-twig)
+5. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
 <!--END_SECTION:activity-->
 
 <!--
