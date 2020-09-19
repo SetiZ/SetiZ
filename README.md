@@ -6,11 +6,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#249](https://github.com//benjaminsampica/benjaminsampica/issues/249) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
-2. 💪 Opened PR [#72](https://github.com//sfeir-open-source/sfeir-school-pwa/pull/72) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
-3. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
-4. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
-5. 🗣 Commented on [#21](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/21) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
+1. 🗣 Commented on [#72](https://github.com//sfeir-open-source/sfeir-school-pwa/issues/72) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
+2. ❗️ Closed issue [#28](https://github.com//jamesgeorge007/github-activity-readme/issues/28) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#28](https://github.com//jamesgeorge007/github-activity-readme/issues/28) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. ❗️ Opened issue [#249](https://github.com//benjaminsampica/benjaminsampica/issues/249) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+5. 💪 Opened PR [#72](https://github.com//sfeir-open-source/sfeir-school-pwa/pull/72) in [sfeir-open-source/sfeir-school-pwa](https://github.com//sfeir-open-source/sfeir-school-pwa)
 <!--END_SECTION:activity-->
 
 <!--
