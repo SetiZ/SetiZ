@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SetiZ&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SetiZ&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
