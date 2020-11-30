@@ -11,11 +11,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/misaelnieto/web_to_pdf_action/pull/4) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
-2. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
-3. 🗣 Commented on [#3](https://github.com/misaelnieto/web_to_pdf_action/issues/3) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
-4. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
-5. 💪 Opened PR [#3](https://github.com/misaelnieto/web_to_pdf_action/pull/3) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+1. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+2. ❗️ Closed issue [#2](https://github.com/misaelnieto/web_to_pdf_action/issues/2) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+3. 🗣 Commented on [#2](https://github.com/misaelnieto/web_to_pdf_action/issues/2) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+4. 💪 Opened PR [#5](https://github.com/misaelnieto/web_to_pdf_action/pull/5) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+5. 💪 Opened PR [#4](https://github.com/misaelnieto/web_to_pdf_action/pull/4) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
 <!--END_SECTION:activity-->
 
 <!--
