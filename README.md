@@ -11,11 +11,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+1. ❗️ Opened issue [#1](https://github.com/ingSlonik/easy-db/issues/1) in [ingSlonik/easy-db](https://github.com/ingSlonik/easy-db)
 2. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
 3. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
-4. ❗️ Closed issue [#2](https://github.com/misaelnieto/web_to_pdf_action/issues/2) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
-5. 🗣 Commented on [#2](https://github.com/misaelnieto/web_to_pdf_action/issues/2) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+4. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+5. ❗️ Closed issue [#2](https://github.com/misaelnieto/web_to_pdf_action/issues/2) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
 <!--END_SECTION:activity-->
 
 <!--
