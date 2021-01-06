@@ -11,11 +11,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ingSlonik/easy-db/issues/1) in [ingSlonik/easy-db](https://github.com/ingSlonik/easy-db)
-2. ❗️ Opened issue [#1](https://github.com/ingSlonik/easy-db/issues/1) in [ingSlonik/easy-db](https://github.com/ingSlonik/easy-db)
-3. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
-4. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
-5. 🗣 Commented on [#1](https://github.com/misaelnieto/web_to_pdf_action/issues/1) in [misaelnieto/web_to_pdf_action](https://github.com/misaelnieto/web_to_pdf_action)
+1. 🎉 Merged PR [#27](https://github.com/SetiZ/resume/pull/27) in [SetiZ/resume](https://github.com/SetiZ/resume)
+2. 🎉 Merged PR [#18](https://github.com/SetiZ/resume/pull/18) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. 🎉 Merged PR [#6](https://github.com/SetiZ/resume/pull/6) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 🎉 Merged PR [#4](https://github.com/SetiZ/resume/pull/4) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🗣 Commented on [#1](https://github.com/ingSlonik/easy-db/issues/1) in [ingSlonik/easy-db](https://github.com/ingSlonik/easy-db)
 <!--END_SECTION:activity-->
 
 <!--
