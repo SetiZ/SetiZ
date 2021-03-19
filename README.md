@@ -11,11 +11,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/SetiZ/resume/pull/74) in [SetiZ/resume](https://github.com/SetiZ/resume)
-2. 🎉 Merged PR [#72](https://github.com/SetiZ/resume/pull/72) in [SetiZ/resume](https://github.com/SetiZ/resume)
-3. 🎉 Merged PR [#70](https://github.com/SetiZ/resume/pull/70) in [SetiZ/resume](https://github.com/SetiZ/resume)
-4. 🎉 Merged PR [#68](https://github.com/SetiZ/resume/pull/68) in [SetiZ/resume](https://github.com/SetiZ/resume)
-5. 🎉 Merged PR [#58](https://github.com/SetiZ/resume/pull/58) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. ❗️ Opened issue [#5](https://github.com/pixability/federated-types/issues/5) in [pixability/federated-types](https://github.com/pixability/federated-types)
+2. 💪 Opened PR [#3](https://github.com/ez90/poc-microfrontend/pull/3) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
+3. 🎉 Merged PR [#74](https://github.com/SetiZ/resume/pull/74) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 🎉 Merged PR [#72](https://github.com/SetiZ/resume/pull/72) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🎉 Merged PR [#70](https://github.com/SetiZ/resume/pull/70) in [SetiZ/resume](https://github.com/SetiZ/resume)
 <!--END_SECTION:activity-->
 
 <!--
