@@ -11,11 +11,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/ez90/poc-microfrontend/pull/13) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
-2. 🎉 Merged PR [#10](https://github.com/ez90/poc-microfrontend/pull/10) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
-3. 💪 Opened PR [#11](https://github.com/ez90/poc-microfrontend/pull/11) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
-4. 💪 Opened PR [#10](https://github.com/ez90/poc-microfrontend/pull/10) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
-5. ❗️ Closed issue [#5](https://github.com/pixability/federated-types/issues/5) in [pixability/federated-types](https://github.com/pixability/federated-types)
+1. ❌ Closed PR [#16](https://github.com/ez90/poc-microfrontend/pull/16) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
+2. 💪 Opened PR [#19](https://github.com/ez90/poc-microfrontend/pull/19) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
+3. 💪 Opened PR [#16](https://github.com/ez90/poc-microfrontend/pull/16) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
+4. 💪 Opened PR [#15](https://github.com/ez90/poc-microfrontend/pull/15) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
+5. 💪 Opened PR [#13](https://github.com/ez90/poc-microfrontend/pull/13) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
 <!--END_SECTION:activity-->
 
 <!--
