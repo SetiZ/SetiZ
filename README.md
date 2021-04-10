@@ -11,11 +11,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/SetiZ/resume/pull/77) in [SetiZ/resume](https://github.com/SetiZ/resume)
-2. 🎉 Merged PR [#75](https://github.com/SetiZ/resume/pull/75) in [SetiZ/resume](https://github.com/SetiZ/resume)
-3. 💪 Opened PR [#25](https://github.com/ez90/poc-microfrontend/pull/25) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
-4. ❌ Closed PR [#16](https://github.com/ez90/poc-microfrontend/pull/16) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
-5. 💪 Opened PR [#19](https://github.com/ez90/poc-microfrontend/pull/19) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
+1. 💪 Opened PR [#1](https://github.com/juliengz/front-apps/pull/1) in [juliengz/front-apps](https://github.com/juliengz/front-apps)
+2. 🎉 Merged PR [#77](https://github.com/SetiZ/resume/pull/77) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. 🎉 Merged PR [#75](https://github.com/SetiZ/resume/pull/75) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 💪 Opened PR [#25](https://github.com/ez90/poc-microfrontend/pull/25) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
+5. ❌ Closed PR [#16](https://github.com/ez90/poc-microfrontend/pull/16) in [ez90/poc-microfrontend](https://github.com/ez90/poc-microfrontend)
 <!--END_SECTION:activity-->
 
 <!--
