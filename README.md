@@ -10,11 +10,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/SetiZ/resume/pull/94) in [SetiZ/resume](https://github.com/SetiZ/resume)
-2. 🎉 Merged PR [#93](https://github.com/SetiZ/resume/pull/93) in [SetiZ/resume](https://github.com/SetiZ/resume)
-3. 🎉 Merged PR [#90](https://github.com/SetiZ/resume/pull/90) in [SetiZ/resume](https://github.com/SetiZ/resume)
-4. 🎉 Merged PR [#81](https://github.com/SetiZ/resume/pull/81) in [SetiZ/resume](https://github.com/SetiZ/resume)
-5. 🎉 Merged PR [#87](https://github.com/SetiZ/resume/pull/87) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🎉 Merged PR [#1](https://github.com/SetiZ/react-hook-calendar/pull/1) in [SetiZ/react-hook-calendar](https://github.com/SetiZ/react-hook-calendar)
+2. 💪 Opened PR [#1](https://github.com/SetiZ/react-hook-calendar/pull/1) in [SetiZ/react-hook-calendar](https://github.com/SetiZ/react-hook-calendar)
+3. ❌ Closed PR [#3](https://github.com/leasy-dev/react-hook-calendar/pull/3) in [leasy-dev/react-hook-calendar](https://github.com/leasy-dev/react-hook-calendar)
+4. 💪 Opened PR [#3](https://github.com/leasy-dev/react-hook-calendar/pull/3) in [leasy-dev/react-hook-calendar](https://github.com/leasy-dev/react-hook-calendar)
+5. 🎉 Merged PR [#94](https://github.com/SetiZ/resume/pull/94) in [SetiZ/resume](https://github.com/SetiZ/resume)
 <!--END_SECTION:activity-->
 
 <!--
