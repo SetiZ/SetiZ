@@ -10,11 +10,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/SetiZ/resume/pull/110) in [SetiZ/resume](https://github.com/SetiZ/resume)
-2. 🎉 Merged PR [#109](https://github.com/SetiZ/resume/pull/109) in [SetiZ/resume](https://github.com/SetiZ/resume)
-3. 🎉 Merged PR [#108](https://github.com/SetiZ/resume/pull/108) in [SetiZ/resume](https://github.com/SetiZ/resume)
-4. 🗣 Commented on [#4](https://github.com/leasy-dev/react-hook-calendar/issues/4) in [leasy-dev/react-hook-calendar](https://github.com/leasy-dev/react-hook-calendar)
-5. 🎉 Merged PR [#106](https://github.com/SetiZ/resume/pull/106) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🎉 Merged PR [#111](https://github.com/SetiZ/resume/pull/111) in [SetiZ/resume](https://github.com/SetiZ/resume)
+2. 🎉 Merged PR [#110](https://github.com/SetiZ/resume/pull/110) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. 🎉 Merged PR [#109](https://github.com/SetiZ/resume/pull/109) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 🎉 Merged PR [#108](https://github.com/SetiZ/resume/pull/108) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🗣 Commented on [#4](https://github.com/leasy-dev/react-hook-calendar/issues/4) in [leasy-dev/react-hook-calendar](https://github.com/leasy-dev/react-hook-calendar)
 <!--END_SECTION:activity-->
 
 <!--
