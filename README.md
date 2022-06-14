@@ -10,11 +10,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9109](https://github.com/strapi/strapi/issues/9109) in [strapi/strapi](https://github.com/strapi/strapi)
-2. ❗️ Opened issue [#6](https://github.com/react-hook-calendar/react-hook-calendar/issues/6) in [react-hook-calendar/react-hook-calendar](https://github.com/react-hook-calendar/react-hook-calendar)
-3. 💪 Opened PR [#7](https://github.com/thetribeio/html-to-pdf/pull/7) in [thetribeio/html-to-pdf](https://github.com/thetribeio/html-to-pdf)
-4. 🎉 Merged PR [#5](https://github.com/react-hook-calendar/react-hook-calendar/pull/5) in [react-hook-calendar/react-hook-calendar](https://github.com/react-hook-calendar/react-hook-calendar)
-5. 🎉 Merged PR [#191](https://github.com/SetiZ/resume/pull/191) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🎉 Merged PR [#222](https://github.com/SetiZ/resume/pull/222) in [SetiZ/resume](https://github.com/SetiZ/resume)
+2. 🎉 Merged PR [#221](https://github.com/SetiZ/resume/pull/221) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. 🎉 Merged PR [#220](https://github.com/SetiZ/resume/pull/220) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 🎉 Merged PR [#219](https://github.com/SetiZ/resume/pull/219) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🎉 Merged PR [#218](https://github.com/SetiZ/resume/pull/218) in [SetiZ/resume](https://github.com/SetiZ/resume)
 <!--END_SECTION:activity-->
 
 <!--
