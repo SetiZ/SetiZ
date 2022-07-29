@@ -10,11 +10,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/nazirov91/ra-strapi-rest/issues/36) in [nazirov91/ra-strapi-rest](https://github.com/nazirov91/ra-strapi-rest)
-2. 🗣 Commented on [#36](https://github.com/nazirov91/ra-strapi-rest/issues/36) in [nazirov91/ra-strapi-rest](https://github.com/nazirov91/ra-strapi-rest)
-3. 🎉 Merged PR [#251](https://github.com/SetiZ/resume/pull/251) in [SetiZ/resume](https://github.com/SetiZ/resume)
-4. 🎉 Merged PR [#250](https://github.com/SetiZ/resume/pull/250) in [SetiZ/resume](https://github.com/SetiZ/resume)
-5. 🎉 Merged PR [#249](https://github.com/SetiZ/resume/pull/249) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🎉 Merged PR [#260](https://github.com/SetiZ/resume/pull/260) in [SetiZ/resume](https://github.com/SetiZ/resume)
+2. 🎉 Merged PR [#257](https://github.com/SetiZ/resume/pull/257) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. 🎉 Merged PR [#256](https://github.com/SetiZ/resume/pull/256) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 🎉 Merged PR [#255](https://github.com/SetiZ/resume/pull/255) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🎉 Merged PR [#253](https://github.com/SetiZ/resume/pull/253) in [SetiZ/resume](https://github.com/SetiZ/resume)
 <!--END_SECTION:activity-->
 
 <!--
