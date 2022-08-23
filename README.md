@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SetiZ&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SetiZ&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SetiZ&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SetiZ&theme=github_dark)
+![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ## :zap: Recent Activity	
 
