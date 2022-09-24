@@ -9,11 +9,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/thetribeio/html-to-pdf/pull/12) in [thetribeio/html-to-pdf](https://github.com/thetribeio/html-to-pdf)
-2. 💪 Opened PR [#10](https://github.com/thetribeio/html-to-pdf/pull/10) in [thetribeio/html-to-pdf](https://github.com/thetribeio/html-to-pdf)
-3. 🎉 Merged PR [#273](https://github.com/SetiZ/resume/pull/273) in [SetiZ/resume](https://github.com/SetiZ/resume)
-4. 🎉 Merged PR [#274](https://github.com/SetiZ/resume/pull/274) in [SetiZ/resume](https://github.com/SetiZ/resume)
-5. 🎉 Merged PR [#272](https://github.com/SetiZ/resume/pull/272) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🎉 Merged PR [#293](https://github.com/SetiZ/resume/pull/293) in [SetiZ/resume](https://github.com/SetiZ/resume)
+2. 🎉 Merged PR [#286](https://github.com/SetiZ/resume/pull/286) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. 🎉 Merged PR [#288](https://github.com/SetiZ/resume/pull/288) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 🎉 Merged PR [#285](https://github.com/SetiZ/resume/pull/285) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🎉 Merged PR [#282](https://github.com/SetiZ/resume/pull/282) in [SetiZ/resume](https://github.com/SetiZ/resume)
 <!--END_SECTION:activity-->
 
 <!--
