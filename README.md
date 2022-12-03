@@ -9,11 +9,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#310](https://github.com/SetiZ/resume/pull/310) in [SetiZ/resume](https://github.com/SetiZ/resume)
-2. 🎉 Merged PR [#309](https://github.com/SetiZ/resume/pull/309) in [SetiZ/resume](https://github.com/SetiZ/resume)
-3. 🎉 Merged PR [#305](https://github.com/SetiZ/resume/pull/305) in [SetiZ/resume](https://github.com/SetiZ/resume)
-4. 🎉 Merged PR [#304](https://github.com/SetiZ/resume/pull/304) in [SetiZ/resume](https://github.com/SetiZ/resume)
-5. 🎉 Merged PR [#297](https://github.com/SetiZ/resume/pull/297) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🎉 Merged PR [#322](https://github.com/SetiZ/resume/pull/322) in [SetiZ/resume](https://github.com/SetiZ/resume)
+2. 🎉 Merged PR [#321](https://github.com/SetiZ/resume/pull/321) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. 🎉 Merged PR [#318](https://github.com/SetiZ/resume/pull/318) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 🎉 Merged PR [#320](https://github.com/SetiZ/resume/pull/320) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🎉 Merged PR [#319](https://github.com/SetiZ/resume/pull/319) in [SetiZ/resume](https://github.com/SetiZ/resume)
 <!--END_SECTION:activity-->
 
 <!--
