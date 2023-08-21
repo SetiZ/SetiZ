@@ -9,11 +9,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#419](https://github.com/SetiZ/resume/pull/419) in [SetiZ/resume](https://github.com/SetiZ/resume)
-2. 🗣 Commented on [#4](https://github.com/Haldahini/GPTBotTwitch/issues/4#issuecomment-1670843914) in [Haldahini/GPTBotTwitch](https://github.com/Haldahini/GPTBotTwitch)
-3. 🎉 Merged PR [#411](https://github.com/SetiZ/resume/pull/411) in [SetiZ/resume](https://github.com/SetiZ/resume)
-4. 🎉 Merged PR [#403](https://github.com/SetiZ/resume/pull/403) in [SetiZ/resume](https://github.com/SetiZ/resume)
-5. 🎉 Merged PR [#402](https://github.com/SetiZ/resume/pull/402) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🎉 Merged PR [#425](https://github.com/SetiZ/resume/pull/425) in [SetiZ/resume](https://github.com/SetiZ/resume)
+2. 🎉 Merged PR [#424](https://github.com/SetiZ/resume/pull/424) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. ❌ Closed PR [#405](https://github.com/SetiZ/resume/pull/405) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. ❌ Closed PR [#404](https://github.com/SetiZ/resume/pull/404) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🎉 Merged PR [#422](https://github.com/SetiZ/resume/pull/422) in [SetiZ/resume](https://github.com/SetiZ/resume)
 <!--END_SECTION:activity-->
 
 <!--
