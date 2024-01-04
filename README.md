@@ -9,11 +9,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#470](https://github.com/SetiZ/resume/pull/470) in [SetiZ/resume](https://github.com/SetiZ/resume)
-2. 🎉 Merged PR [#469](https://github.com/SetiZ/resume/pull/469) in [SetiZ/resume](https://github.com/SetiZ/resume)
-3. 🎉 Merged PR [#467](https://github.com/SetiZ/resume/pull/467) in [SetiZ/resume](https://github.com/SetiZ/resume)
-4. 🎉 Merged PR [#466](https://github.com/SetiZ/resume/pull/466) in [SetiZ/resume](https://github.com/SetiZ/resume)
-5. 🎉 Merged PR [#465](https://github.com/SetiZ/resume/pull/465) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🗣 Commented on [#7548](https://github.com/chakra-ui/chakra-ui/issues/7548#issuecomment-1875440272) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+2. 🎉 Merged PR [#470](https://github.com/SetiZ/resume/pull/470) in [SetiZ/resume](https://github.com/SetiZ/resume)
+3. 🎉 Merged PR [#469](https://github.com/SetiZ/resume/pull/469) in [SetiZ/resume](https://github.com/SetiZ/resume)
+4. 🎉 Merged PR [#467](https://github.com/SetiZ/resume/pull/467) in [SetiZ/resume](https://github.com/SetiZ/resume)
+5. 🎉 Merged PR [#466](https://github.com/SetiZ/resume/pull/466) in [SetiZ/resume](https://github.com/SetiZ/resume)
 <!--END_SECTION:activity-->
 
 <!--
