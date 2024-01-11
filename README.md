@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 ![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
