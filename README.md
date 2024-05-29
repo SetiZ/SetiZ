@@ -10,11 +10,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/hr-for-impact/helm_repo/pull/4) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
-2. 💪 Opened PR [#4](https://github.com/hr-for-impact/helm_repo/pull/4) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
-3. 🎉 Merged PR [#3](https://github.com/hr-for-impact/helm_repo/pull/3) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
-4. 💪 Opened PR [#3](https://github.com/hr-for-impact/helm_repo/pull/3) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
-5. 🎉 Merged PR [#466](https://github.com/SetiZ/resume/pull/466) in [SetiZ/resume](https://github.com/SetiZ/resume)
+1. 🎉 Merged PR [#5](https://github.com/hr-for-impact/helm_repo/pull/5) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
+2. 💪 Opened PR [#5](https://github.com/hr-for-impact/helm_repo/pull/5) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
+3. 🎉 Merged PR [#4](https://github.com/hr-for-impact/helm_repo/pull/4) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
+4. 💪 Opened PR [#4](https://github.com/hr-for-impact/helm_repo/pull/4) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
+5. 🎉 Merged PR [#3](https://github.com/hr-for-impact/helm_repo/pull/3) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
 <!--END_SECTION:activity-->
 
 <!--
