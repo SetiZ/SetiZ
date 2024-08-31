@@ -10,11 +10,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/kucherenko/strapi-plugin-passwordless/issues/18#issuecomment-2314715626) in [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless)
-2. 🗣 Commented on [#18](https://github.com/kucherenko/strapi-plugin-passwordless/issues/18#issuecomment-2210320239) in [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless)
-3. 🎉 Merged PR [#6](https://github.com/hr-for-impact/helm_repo/pull/6) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
-4. 💪 Opened PR [#6](https://github.com/hr-for-impact/helm_repo/pull/6) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
-5. 💪 Opened PR [#5](https://github.com/hr-for-impact/helm_repo/pull/5) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
+1. 🗣 Commented on [#1553](https://github.com/Bearer/bearer/issues/1553#issuecomment-2321557899) in [Bearer/bearer](https://github.com/Bearer/bearer)
+2. 🗣 Commented on [#18](https://github.com/kucherenko/strapi-plugin-passwordless/issues/18#issuecomment-2314715626) in [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless)
+3. 🗣 Commented on [#18](https://github.com/kucherenko/strapi-plugin-passwordless/issues/18#issuecomment-2210320239) in [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless)
+4. 🎉 Merged PR [#6](https://github.com/hr-for-impact/helm_repo/pull/6) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
+5. 💪 Opened PR [#6](https://github.com/hr-for-impact/helm_repo/pull/6) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
 <!--END_SECTION:activity-->
 
 <!--
