@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there!
+![](https://gifdb.com/images/high/obi-wan-kenobi-well-hello-there-hzgui7yr5ketac2c.webp)
+
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 ![](https://raw.githubusercontent.com/SetiZ/SetiZ/master/profile-summary-card-output/github_dark/0-profile-details.svg)
