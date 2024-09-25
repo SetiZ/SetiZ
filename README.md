@@ -12,11 +12,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1553](https://github.com/Bearer/bearer/issues/1553#issuecomment-2321557899) in [Bearer/bearer](https://github.com/Bearer/bearer)
-2. 🗣 Commented on [#18](https://github.com/kucherenko/strapi-plugin-passwordless/issues/18#issuecomment-2314715626) in [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless)
-3. 🗣 Commented on [#18](https://github.com/kucherenko/strapi-plugin-passwordless/issues/18#issuecomment-2210320239) in [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless)
-4. 🎉 Merged PR [#6](https://github.com/hr-for-impact/helm_repo/pull/6) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
-5. 💪 Opened PR [#6](https://github.com/hr-for-impact/helm_repo/pull/6) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
+1. 🗣 Commented on [#16330](https://github.com/strapi/strapi/issues/16330#issuecomment-2371799249) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🎉 Merged PR [#7](https://github.com/hr-for-impact/mazi-doc/pull/7) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
+3. 💪 Opened PR [#7](https://github.com/hr-for-impact/mazi-doc/pull/7) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
+4. 🗣 Commented on [#1553](https://github.com/Bearer/bearer/issues/1553#issuecomment-2321557899) in [Bearer/bearer](https://github.com/Bearer/bearer)
+5. 🗣 Commented on [#18](https://github.com/kucherenko/strapi-plugin-passwordless/issues/18#issuecomment-2314715626) in [kucherenko/strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless)
 <!--END_SECTION:activity-->
 
 <!--
