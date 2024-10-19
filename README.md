@@ -12,11 +12,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/hr-for-impact/mazi-doc/pull/3) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
-2. 🗣 Commented on [#16330](https://github.com/strapi/strapi/issues/16330#issuecomment-2371799249) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🎉 Merged PR [#7](https://github.com/hr-for-impact/mazi-doc/pull/7) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
-4. 💪 Opened PR [#7](https://github.com/hr-for-impact/mazi-doc/pull/7) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
-5. 🗣 Commented on [#1553](https://github.com/Bearer/bearer/issues/1553#issuecomment-2321557899) in [Bearer/bearer](https://github.com/Bearer/bearer)
+1. 🎉 Merged PR [#14](https://github.com/SetiZ/les-miches-a-micha/pull/14) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+2. 🎉 Merged PR [#12](https://github.com/SetiZ/les-miches-a-micha/pull/12) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+3. 🎉 Merged PR [#3](https://github.com/hr-for-impact/mazi-doc/pull/3) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
+4. 🗣 Commented on [#16330](https://github.com/strapi/strapi/issues/16330#issuecomment-2371799249) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🎉 Merged PR [#7](https://github.com/hr-for-impact/mazi-doc/pull/7) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
 <!--END_SECTION:activity-->
 
 <!--
