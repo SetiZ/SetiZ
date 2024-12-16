@@ -12,11 +12,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1553](https://github.com/Bearer/bearer/issues/1553#issuecomment-2493400019) in [Bearer/bearer](https://github.com/Bearer/bearer)
-2. ❗ Opened issue [#11](https://github.com/hr-for-impact/mazi-doc/issues/11) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
-3. 🎉 Merged PR [#14](https://github.com/SetiZ/les-miches-a-micha/pull/14) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-4. 🎉 Merged PR [#12](https://github.com/SetiZ/les-miches-a-micha/pull/12) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-5. 🎉 Merged PR [#3](https://github.com/hr-for-impact/mazi-doc/pull/3) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
+1. 💪 Opened PR [#18](https://github.com/SetiZ/les-miches-a-micha/pull/18) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+2. 🗣 Commented on [#1553](https://github.com/Bearer/bearer/issues/1553#issuecomment-2493400019) in [Bearer/bearer](https://github.com/Bearer/bearer)
+3. ❗ Opened issue [#11](https://github.com/hr-for-impact/mazi-doc/issues/11) in [hr-for-impact/mazi-doc](https://github.com/hr-for-impact/mazi-doc)
+4. 🎉 Merged PR [#14](https://github.com/SetiZ/les-miches-a-micha/pull/14) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+5. 🎉 Merged PR [#12](https://github.com/SetiZ/les-miches-a-micha/pull/12) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
 <!--END_SECTION:activity-->
 
 <!--
