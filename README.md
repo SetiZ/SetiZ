@@ -12,8 +12,8 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/SetiZ/les-miches-a-micha/pull/26) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-2. 💪 Opened PR [#26](https://github.com/SetiZ/les-miches-a-micha/pull/26) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+1. 🗣 Commented on [#7034](https://github.com/refinedev/refine/issues/7034#issuecomment-3347998750) in [refinedev/refine](https://github.com/refinedev/refine)
+2. ❗ Opened issue [#7034](https://github.com/refinedev/refine/issues/7034) in [refinedev/refine](https://github.com/refinedev/refine)
 3. ❗ Opened issue [#223](https://github.com/pages-cms/pages-cms/issues/223) in [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms)
 4. 🎉 Merged PR [#21](https://github.com/SetiZ/les-miches-a-micha/pull/21) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
 5. 💪 Opened PR [#21](https://github.com/SetiZ/les-miches-a-micha/pull/21) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
