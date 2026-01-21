@@ -14,8 +14,8 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
-2. ❌ Assigned PR [#7](undefined) in [hr-for-impact/helm_repo](https://github.com/hr-for-impact/helm_repo)
+1. ℹ️ Labeled issue [#722](https://github.com/kubero-dev/kubero/issues/722) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
+2. ❗ Opened issue [#722](https://github.com/kubero-dev/kubero/issues/722) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
 3. 🗣 Commented on [#7034](https://github.com/refinedev/refine/issues/7034#issuecomment-3347998750) in [refinedev/refine](https://github.com/refinedev/refine)
 4.  Labeled issue [#7034](https://github.com/refinedev/refine/issues/7034) in [refinedev/refine](https://github.com/refinedev/refine)
 5. ❗ Opened issue [#7034](https://github.com/refinedev/refine/issues/7034) in [refinedev/refine](https://github.com/refinedev/refine)
