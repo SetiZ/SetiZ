@@ -14,10 +14,10 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#722](https://github.com/kubero-dev/kubero/issues/722) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
-2. ❗ Opened issue [#722](https://github.com/kubero-dev/kubero/issues/722) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
-3. 🗣 Commented on [#7034](https://github.com/refinedev/refine/issues/7034#issuecomment-3347998750) in [refinedev/refine](https://github.com/refinedev/refine)
-4.  Labeled issue [#7034](https://github.com/refinedev/refine/issues/7034) in [refinedev/refine](https://github.com/refinedev/refine)
+1. 🗣 Commented on [#722](https://github.com/kubero-dev/kubero/issues/722#issuecomment-3809981674) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
+2. 🗣 Commented on [#687](https://github.com/kubero-dev/kubero/issues/687#issuecomment-3809970411) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
+3. ℹ️ Labeled issue [#722](https://github.com/kubero-dev/kubero/issues/722) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
+4. ❗ Opened issue [#722](https://github.com/kubero-dev/kubero/issues/722) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
 5. ❗ Opened issue [#7034](https://github.com/refinedev/refine/issues/7034) in [refinedev/refine](https://github.com/refinedev/refine)
 <!--END_SECTION:activity-->
 
