@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#722](https://github.com/kubero-dev/kubero/issues/722#issuecomment-3809981674) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
-2. 🗣 Commented on [#687](https://github.com/kubero-dev/kubero/issues/687#issuecomment-3809970411) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
-3. ℹ️ Labeled issue [#722](https://github.com/kubero-dev/kubero/issues/722) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
-4. ❗ Opened issue [#722](https://github.com/kubero-dev/kubero/issues/722) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
-5. ❗ Opened issue [#7034](https://github.com/refinedev/refine/issues/7034) in [refinedev/refine](https://github.com/refinedev/refine)
+1. 🔒 Closed issue [#3](https://github.com/SetiZ/ownDash/issues/3) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+2. 🗣 Commented on [#3](https://github.com/SetiZ/ownDash/issues/3#issuecomment-4703018020) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+3. 🎉 Merged PR [#5](https://github.com/SetiZ/ownDash/pull/5) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+4. 💪 Opened PR [#5](https://github.com/SetiZ/ownDash/pull/5) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+5. 🎉 Merged PR [#2](https://github.com/SetiZ/ownDash/pull/2) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
 <!--END_SECTION:activity-->
 
 <!--
