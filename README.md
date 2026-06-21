@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/SetiZ/ownDash/pull/6) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-2. 🔒 Closed issue [#3](https://github.com/SetiZ/ownDash/issues/3) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-3. 🗣 Commented on [#3](https://github.com/SetiZ/ownDash/issues/3#issuecomment-4703018020) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-4. 🎉 Merged PR [#5](https://github.com/SetiZ/ownDash/pull/5) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-5. 💪 Opened PR [#5](https://github.com/SetiZ/ownDash/pull/5) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+1. 🎉 Merged PR [#3](https://github.com/SetiZ/pr-agent-dashboard/pull/3) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
+2. 🗣 Commented on [#1](https://github.com/SetiZ/pr-agent-dashboard/pull/1#issuecomment-4758890895) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
+3. 💪 Opened PR [#6](https://github.com/SetiZ/ownDash/pull/6) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+4. 🔒 Closed issue [#3](https://github.com/SetiZ/ownDash/issues/3) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+5. 🗣 Commented on [#3](https://github.com/SetiZ/ownDash/issues/3#issuecomment-4703018020) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
 <!--END_SECTION:activity-->
 
 <!--
