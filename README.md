@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/SetiZ/pr-agent-dashboard/pull/2#issuecomment-4759914015) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
-2. 🗣 Commented on [#1](https://github.com/SetiZ/pr-agent-dashboard/pull/1#issuecomment-4758855192) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
-3. 🗣 Commented on [#1](https://github.com/SetiZ/pr-agent-dashboard/pull/1#issuecomment-4759170424) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
-4. 🎉 Merged PR [#5](https://github.com/SetiZ/pr-agent-dashboard/pull/5) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
-5. 💪 Opened PR [#8](https://github.com/SetiZ/ownDash/pull/8) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+1. 💪 Opened PR [#8](https://github.com/SetiZ/pr-agent-dashboard/pull/8) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
+2. 💪 Opened PR [#7](https://github.com/SetiZ/pr-agent-dashboard/pull/7) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
+3. 💪 Opened PR [#6](https://github.com/SetiZ/pr-agent-dashboard/pull/6) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
+4. 💪 Opened PR [#5](https://github.com/SetiZ/pr-agent-dashboard/pull/5) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
+5. 💪 Opened PR [#4](https://github.com/SetiZ/pr-agent-dashboard/pull/4) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
 <!--END_SECTION:activity-->
 
 <!--
