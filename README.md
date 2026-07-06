@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/SetiZ/pr-agent-dashboard/pull/8) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
-2. 💪 Opened PR [#7](https://github.com/SetiZ/pr-agent-dashboard/pull/7) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
-3. 💪 Opened PR [#6](https://github.com/SetiZ/pr-agent-dashboard/pull/6) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
-4. 💪 Opened PR [#5](https://github.com/SetiZ/pr-agent-dashboard/pull/5) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
-5. 💪 Opened PR [#4](https://github.com/SetiZ/pr-agent-dashboard/pull/4) in [SetiZ/pr-agent-dashboard](https://github.com/SetiZ/pr-agent-dashboard)
+1. 🎉 Merged PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+2. 💪 Opened PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+3. 🎉 Merged PR [#13](https://github.com/SetiZ/ownDash/pull/13) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+4. 💪 Opened PR [#13](https://github.com/SetiZ/ownDash/pull/13) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+5. 🎉 Merged PR [#12](https://github.com/SetiZ/ownDash/pull/12) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
 <!--END_SECTION:activity-->
 
 <!--
