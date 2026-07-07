@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-2. 💪 Opened PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-3. 🎉 Merged PR [#13](https://github.com/SetiZ/ownDash/pull/13) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-4. 💪 Opened PR [#13](https://github.com/SetiZ/ownDash/pull/13) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-5. 🎉 Merged PR [#12](https://github.com/SetiZ/ownDash/pull/12) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+1. 💪 Opened PR [#1](https://github.com/SetiZ/strapi-plugin-passwordless/pull/1) in [SetiZ/strapi-plugin-passwordless](https://github.com/SetiZ/strapi-plugin-passwordless)
+2. 🎉 Merged PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+3. 💪 Opened PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+4. 🎉 Merged PR [#13](https://github.com/SetiZ/ownDash/pull/13) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+5. 💪 Opened PR [#13](https://github.com/SetiZ/ownDash/pull/13) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
 <!--END_SECTION:activity-->
 
 <!--
