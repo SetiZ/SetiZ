@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#47](https://github.com/SetiZ/les-miches-a-micha/issues/47) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-2. 💪 Opened PR [#1](https://github.com/SetiZ/strapi-plugin-passwordless/pull/1) in [SetiZ/strapi-plugin-passwordless](https://github.com/SetiZ/strapi-plugin-passwordless)
-3. 🎉 Merged PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-4. 💪 Opened PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
-5. 🎉 Merged PR [#13](https://github.com/SetiZ/ownDash/pull/13) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+1. 🔒 Closed issue [#47](https://github.com/SetiZ/les-miches-a-micha/issues/47) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+2. ❗ Opened issue [#47](https://github.com/SetiZ/les-miches-a-micha/issues/47) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+3. 💪 Opened PR [#1](https://github.com/SetiZ/strapi-plugin-passwordless/pull/1) in [SetiZ/strapi-plugin-passwordless](https://github.com/SetiZ/strapi-plugin-passwordless)
+4. 🎉 Merged PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
+5. 💪 Opened PR [#14](https://github.com/SetiZ/ownDash/pull/14) in [SetiZ/ownDash](https://github.com/SetiZ/ownDash)
 <!--END_SECTION:activity-->
 
 <!--
