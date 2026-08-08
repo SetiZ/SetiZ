@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/SetiZ/les-miches-a-micha/pull/18) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-2. ❌ Closed PR [#24](https://github.com/SetiZ/les-miches-a-micha/pull/24) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-3. 🔒 Closed issue [#47](https://github.com/SetiZ/les-miches-a-micha/issues/47) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-4. ❗ Opened issue [#47](https://github.com/SetiZ/les-miches-a-micha/issues/47) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-5. 💪 Opened PR [#1](https://github.com/SetiZ/strapi-plugin-passwordless/pull/1) in [SetiZ/strapi-plugin-passwordless](https://github.com/SetiZ/strapi-plugin-passwordless)
+1. ℹ️ Labeled issue [#103](https://github.com/drumih/turbo-fieldfare/issues/103) in [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
+2. ❗ Opened issue [#103](https://github.com/drumih/turbo-fieldfare/issues/103) in [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
+3. ❌ Closed PR [#18](https://github.com/SetiZ/les-miches-a-micha/pull/18) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+4. ❌ Closed PR [#24](https://github.com/SetiZ/les-miches-a-micha/pull/24) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+5. 🔒 Closed issue [#47](https://github.com/SetiZ/les-miches-a-micha/issues/47) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
 <!--END_SECTION:activity-->
 
 <!--
