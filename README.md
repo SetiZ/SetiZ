@@ -14,10 +14,10 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#103](https://github.com/drumih/turbo-fieldfare/issues/103) in [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
-2. ❗ Opened issue [#103](https://github.com/drumih/turbo-fieldfare/issues/103) in [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
-3. ❌ Closed PR [#18](https://github.com/SetiZ/les-miches-a-micha/pull/18) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-4. ❌ Closed PR [#24](https://github.com/SetiZ/les-miches-a-micha/pull/24) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+1. 💪 Opened PR [#55](https://github.com/SetiZ/les-miches-a-micha/pull/55) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+2. 🗣 Commented on [#652](https://github.com/johnpapa/vscode-peacock/issues/652#issuecomment-5278657230) in [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock)
+3. ℹ️ Labeled issue [#103](https://github.com/drumih/turbo-fieldfare/issues/103) in [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
+4. ❗ Opened issue [#103](https://github.com/drumih/turbo-fieldfare/issues/103) in [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
 5. 🔒 Closed issue [#47](https://github.com/SetiZ/les-miches-a-micha/issues/47) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
 <!--END_SECTION:activity-->
 
