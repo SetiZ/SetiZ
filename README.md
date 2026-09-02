@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SetiZ/e-nvoice/pull/3) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-2. ℹ️ Assigned PR [#3](https://github.com/SetiZ/e-nvoice/pull/3) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-3. 💪 Opened PR [#3](https://github.com/SetiZ/e-nvoice/pull/3) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-4. 🚀 Published release [v1.1.0 - B2C Support, Foreign Invoices, Bank Details & Mobile UX](https://github.com/SetiZ/e-nvoice/releases/tag/v1.1.0) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-5. 🎉 Merged PR [#55](https://github.com/SetiZ/les-miches-a-micha/pull/55) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+1. 🎉 Merged PR [#5](https://github.com/SetiZ/e-nvoice/pull/5) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+2. 💪 Opened PR [#5](https://github.com/SetiZ/e-nvoice/pull/5) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+3. ℹ️ Assigned PR [#5](https://github.com/SetiZ/e-nvoice/pull/5) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+4. 🚀 Published release [v1.1.2 — Manifest Consistency Patch](https://github.com/SetiZ/e-nvoice/releases/tag/v1.1.2) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+5. 🎉 Merged PR [#4](https://github.com/SetiZ/e-nvoice/pull/4) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
 <!--END_SECTION:activity-->
 
 <!--
