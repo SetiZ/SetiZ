@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/SetiZ/e-nvoice/pull/8) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-2. ℹ️ Assigned PR [#8](https://github.com/SetiZ/e-nvoice/pull/8) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-3. 🎉 Merged PR [#7](https://github.com/SetiZ/e-nvoice/pull/7) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-4. ℹ️ Assigned PR [#7](https://github.com/SetiZ/e-nvoice/pull/7) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-5. 💪 Opened PR [#7](https://github.com/SetiZ/e-nvoice/pull/7) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+1. 💪 Opened PR [#9](https://github.com/SetiZ/e-nvoice/pull/9) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+2. ℹ️ Assigned PR [#9](https://github.com/SetiZ/e-nvoice/pull/9) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+3. 💪 Opened PR [#8](https://github.com/SetiZ/e-nvoice/pull/8) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+4. ℹ️ Assigned PR [#8](https://github.com/SetiZ/e-nvoice/pull/8) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+5. 🎉 Merged PR [#7](https://github.com/SetiZ/e-nvoice/pull/7) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
 <!--END_SECTION:activity-->
 
 <!--
