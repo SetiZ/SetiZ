@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10648](https://github.com/twentyhq/twenty/issues/10648#issuecomment-5778128547) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-2. 🗣 Commented on [#57](https://github.com/SetiZ/les-miches-a-micha/pull/57#issuecomment-5715417970) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-3. 🗣 Commented on [#56](https://github.com/SetiZ/les-miches-a-micha/pull/56#issuecomment-5715415189) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-4. 🗣 Commented on [#103](https://github.com/drumih/turbo-fieldfare/issues/103#issuecomment-5616204976) in [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
-5. 💪 Opened PR [#9](https://github.com/SetiZ/e-nvoice/pull/9) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+1. 💪 Opened PR [#10](https://github.com/SetiZ/e-nvoice/pull/10) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+2. 🎉 Merged PR [#9](https://github.com/SetiZ/e-nvoice/pull/9) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+3. 🎉 Merged PR [#8](https://github.com/SetiZ/e-nvoice/pull/8) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+4. 🗣 Commented on [#10648](https://github.com/twentyhq/twenty/issues/10648#issuecomment-5778128547) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+5. 🗣 Commented on [#57](https://github.com/SetiZ/les-miches-a-micha/pull/57#issuecomment-5715417970) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
 <!--END_SECTION:activity-->
 
 <!--
