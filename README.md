@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/SetiZ/e-nvoice/pull/10) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-2. 🎉 Merged PR [#9](https://github.com/SetiZ/e-nvoice/pull/9) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-3. 🎉 Merged PR [#8](https://github.com/SetiZ/e-nvoice/pull/8) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
-4. 🗣 Commented on [#10648](https://github.com/twentyhq/twenty/issues/10648#issuecomment-5778128547) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-5. 🗣 Commented on [#57](https://github.com/SetiZ/les-miches-a-micha/pull/57#issuecomment-5715417970) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
+1. 💪 Opened PR [#1](https://github.com/hr-for-impact/maazi-helm-charts/pull/1) in [hr-for-impact/maazi-helm-charts](https://github.com/hr-for-impact/maazi-helm-charts)
+2. ℹ️ Assigned PR [#1](https://github.com/hr-for-impact/maazi-helm-charts/pull/1) in [hr-for-impact/maazi-helm-charts](https://github.com/hr-for-impact/maazi-helm-charts)
+3. 💪 Opened PR [#10](https://github.com/SetiZ/e-nvoice/pull/10) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+4. 🎉 Merged PR [#9](https://github.com/SetiZ/e-nvoice/pull/9) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+5. 🎉 Merged PR [#8](https://github.com/SetiZ/e-nvoice/pull/8) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
 <!--END_SECTION:activity-->
 
 <!--
