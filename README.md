@@ -14,11 +14,11 @@
 ## :zap: Recent Activity	
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/SetiZ/les-miches-a-micha/pull/59) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-2. 💪 Opened PR [#59](https://github.com/SetiZ/les-miches-a-micha/pull/59) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-3. 🎉 Merged PR [#58](https://github.com/SetiZ/les-miches-a-micha/pull/58) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-4. 💪 Opened PR [#58](https://github.com/SetiZ/les-miches-a-micha/pull/58) in [SetiZ/les-miches-a-micha](https://github.com/SetiZ/les-miches-a-micha)
-5. 🎉 Merged PR [#9](https://github.com/SetiZ/e-nvoice/pull/9) in [SetiZ/e-nvoice](https://github.com/SetiZ/e-nvoice)
+1. 🎉 Merged PR [#3](https://github.com/hr-for-impact/maazi-helm-charts/pull/3) in [hr-for-impact/maazi-helm-charts](https://github.com/hr-for-impact/maazi-helm-charts)
+2. 💪 Opened PR [#3](https://github.com/hr-for-impact/maazi-helm-charts/pull/3) in [hr-for-impact/maazi-helm-charts](https://github.com/hr-for-impact/maazi-helm-charts)
+3. ℹ️ Assigned PR [#3](https://github.com/hr-for-impact/maazi-helm-charts/pull/3) in [hr-for-impact/maazi-helm-charts](https://github.com/hr-for-impact/maazi-helm-charts)
+4. 🎉 Merged PR [#2](https://github.com/hr-for-impact/maazi-helm-charts/pull/2) in [hr-for-impact/maazi-helm-charts](https://github.com/hr-for-impact/maazi-helm-charts)
+5. 💪 Opened PR [#2](https://github.com/hr-for-impact/maazi-helm-charts/pull/2) in [hr-for-impact/maazi-helm-charts](https://github.com/hr-for-impact/maazi-helm-charts)
 <!--END_SECTION:activity-->
 
 <!--
